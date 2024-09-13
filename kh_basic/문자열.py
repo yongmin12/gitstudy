@@ -48,6 +48,8 @@ print(a.upper())
 print(a.lower())
 # 대문자는 소문자로 소문자는 대문자로...(오후에)
 
+
+
 # 문자열 변경 : replace("기존 문자열", "바꿀 문자열")
 b = "Hello Python Program..."
 n_b = b.replace(_old:"Hello", _new:"")
