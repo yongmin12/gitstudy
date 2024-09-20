@@ -17,3 +17,4 @@ ls = list(map(int, input("리스트 입력 : ").split()))
 n = int(input("찾는 숫자 : "))
 # 결과 출력 하기
 print(second_num(ls, n))
+
